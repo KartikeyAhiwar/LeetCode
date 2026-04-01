@@ -1,1 +1,1 @@
-# LeetCodeDSA
+# LeetCode
